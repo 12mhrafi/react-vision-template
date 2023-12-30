@@ -198,6 +198,9 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <div className="mt-32">
+              <div className="flex border-t items-center justify-center font-medium text-[14px] pt-8 pb-3 text-white">© 2023 by Visions All Rights Reserved</div>
+        </div>
       </Container>
     </div>
   );
